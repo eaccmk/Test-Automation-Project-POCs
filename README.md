@@ -2,9 +2,9 @@
 
 Here is a comprehensive list of **github repo's**. I have created for you to kick-start with Test Automation tools.
  
- _Feel free to use them for starting your journey towards automation, wheather it be, Web, mobile, API, Security, Performance or CI/CD....**_
+ _Feel free to use them for starting your journey towards automation, wheather it be, Web, mobile, API, Security, Performance or CI/CD...._
 
-_`git checkout` some code with handy reference to offical links & start playing..._
+> `git checkout` some code with handy reference to offical links & start playing...
 
 ---
 ## **Web Automation**
@@ -21,7 +21,7 @@ _`git checkout` some code with handy reference to offical links & start playing.
 
 | **Name (click to view repor)**		| **Language (in poc)**	| **Link to Official Page** | 
 |---------------------------------------|-----------------------|---------------------------|
-|Appium   								| Java		 			| [Appium]					|
+|Appium - [Appium-repo]   								| Java		 			| [Appium]					|
 
 ---
 
@@ -66,22 +66,28 @@ _`git checkout` some code with handy reference to offical links & start playing.
 
 ---
 
-##Licence
+## Licence
 
-**Test-Automation-Project-POCs** was released under [MIT](LICENSE)
+**Test-Automation-Project-POCs** was released under [MIT License](LICENSE)
 
-Like this :octocat: repo ? ``` - I too :heart: ❤️ this !```
+---
 
-<p align="center"><br><br><br><br><br>
-  <b> ``` - Like this :octocat: repo ?, I too :heart: ❤️ this !```</b>
-  <br><br><br>
-	<i>testing fa-github [&#xf09b;] <i>
+<p align="center">
+	<br>
+	<br>
+  		<b>- Like this :octocat: repo, I too :heart: ❤️ this !</b>
+  	<br>
+  	<br>
 </p>
 
 
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+
+[//]: <> ( ALL Other/ relative GitHub repo links are here)
+   [Appium-repo]: <https://github.com/eaccmk/OneClickAutomation>
+
 
 [//]: <> ( ALL official links are here)
    
@@ -119,7 +125,7 @@ Like this :octocat: repo ? ``` - I too :heart: ❤️ this !```
    [README-gitLab]: <https://about.gitlab.com/handbook/engineering/ux/technical-writing/markdown-guide/>
 
 
-    [//]: <> ( ```diff - text in red + text in green ! text in orange # text in gray```)
-   
+[//]: <> ( ```diff - text in red + text in green ! text in orange # text in gray```)
+
 [//]: <> ( remove \ from below)
 [//]: <> (- ![#f03c15]\(https://placehold.it/15/f03c15/000000?text=+\) `#f03c15`)
