@@ -21,7 +21,7 @@ Here is a comprehensive list of **github repo's**. I have created for you to kic
 
 | **Name (click to view repor)**		| **Language (in poc)**	            | **Link to Official Page** | 
 |-----------------------------------|-----------------------------------|---------------------------|
-|Appium - *[OneClickAutomation-POC]	| `Selenium, Java, Gherkin & Shell`	| [Appium]					        |
+|Appium [OneClickAutomation-POC]	  | `Selenium, Java, Gherkin & Shell`	| [Appium]					        |
 
 ---
 
