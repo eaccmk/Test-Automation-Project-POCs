@@ -7,7 +7,7 @@ Here is a comprehensive list of **github repo's**. I have created for you to kic
 > `git checkout` some code with handy reference to offical links & start playing...
 
 ---
-## **Web Automation**
+## **Web Automation** 🌐
 
 
 | **Name (click to view repor)**		| **Language (in poc)**	| **Link to Official Page** | 
@@ -17,24 +17,24 @@ Here is a comprehensive list of **github repo's**. I have created for you to kic
 
 ---
 
-## **Mobile Automation**
+## **Mobile Automation** 📱
 
-| **Name (click to view repor)**		| **Language (in poc)**	| **Link to Official Page** | 
-|---------------------------------------|-----------------------|---------------------------|
-|Appium - [Appium-repo]   								| Java		 			| [Appium]					|
-
----
-
-## **API Automation**
-
-| **Name (click to view repor)**		| **Language (in poc)**	| **Link to Official Page** | 
-|---------------------------------------|-----------------------|---------------------------|
-|RESTassured   							| Java					| [RESTassured]				|
-
+| **Name (click to view repor)**		| **Language (in poc)**	            | **Link to Official Page** | 
+|-----------------------------------|-----------------------------------|---------------------------|
+|Appium - *[OneClickAutomation-POC]	| `Selenium, Java, Gherkin & Shell`	| [Appium]					        |
 
 ---
 
-## **Performance Testing**
+## **API Automation** 🗂️
+
+| **Name (click to view repor)**		| **Language (in poc)**	| **Link to Official Page** | 
+|-----------------------------------|-----------------------|---------------------------|
+|RESTassured [RESTassured-POC]  		|  `Java with maven`	  | [RESTassured]				      |
+
+
+---
+
+## **Performance Testing** 🏋️
 
 | **Name (click to view repor)**		| **Language (in poc)**	| **Link to Official Page** | 
 |---------------------------------------|-----------------------|---------------------------|
@@ -44,18 +44,18 @@ Here is a comprehensive list of **github repo's**. I have created for you to kic
 
 ---
 
-## **Security Testing**
+## **Security Testing** 🛡️
 
-| **Name (click to view repor)**		| **SetUp instructions**| **Link to Official Page** | 
-|---------------------------------------|-----------------------|---------------------------|
-| veracode (Static Analysis)			| _ToDo_				| [Veracode]				|
-| Fortify (Static Code Analyzer)		| _ToDo_				| [Fortify]					|
-| Burp Suite (Static Analysis)			| _ToDo_				| [Burp Suite]				|
+| **Name (click to view repor)**		     | **SetUp instructions**| **Link to Official Page** | 
+|----------------------------------------|-----------------------|---------------------------|
+| veracode (Static Analysis)			       | _ToDo_				         | [Veracode]				|
+| Fortify (Static Code Analyzer)		     | _ToDo_				         | [Fortify]					|
+| Burp Suite (Static Analysis)			     | _ToDo_				         | [Burp Suite]				|
 
 
 ---
 
-## **TestOPS/DevOPS Tools**
+## **TestOPS/DevOPS Tools** ⚒️
 
 | **Name (click to view repor)**		| **SetUp instructions**	| **Link to Official Page** | 
 |---------------------------------------|---------------------------|---------------------------|
@@ -66,7 +66,7 @@ Here is a comprehensive list of **github repo's**. I have created for you to kic
 
 ---
 
-## Licence
+## Licence 🔰
 
 **Test-Automation-Project-POCs** was released under [MIT License](LICENSE)
 
@@ -75,7 +75,7 @@ Here is a comprehensive list of **github repo's**. I have created for you to kic
 <p align="center">
 	<br>
 	<br>
-  		<b>- Like this :octocat: repo, I too :heart: ❤️ this !</b>
+  		<b>Like this :octocat: repo, I too :heart: ❤️ this !</b>
   	<br>
   	<br>
 </p>
@@ -86,7 +86,8 @@ Here is a comprehensive list of **github repo's**. I have created for you to kic
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
 [//]: <> ( ALL Other/ relative GitHub repo links are here)
-   [Appium-repo]: <https://github.com/eaccmk/OneClickAutomation>
+   [OneClickAutomation]: <https://github.com/eaccmk/OneClickAutomation>
+   [RESTassured-POC]: <https://github.com/eaccmk/RESTassured-POC>
 
 
 [//]: <> ( ALL official links are here)
