@@ -4,13 +4,14 @@ Here is a comprehensive list of **github repo's**. I have created for you to kic
  
  _Feel free to use them for starting your journey towards automation, wheather it be, Web, mobile, API, Security, Performance or CI/CD...._
 
-> `git checkout` some code with handy reference to offical links & start playing...
+> `git checkout https://github.com/eaccmk/Test-Automation-Project-POCs.git` and start playing with some 😎 Cool & 💁🏻 handy repos. 
+
 
 ---
 ## **Web Automation** 🌐
 
 
-| **Name (click to view repor)**		| **Language (in poc)**	| **Link to Official Page** | 
+| **Name (click to view repo)**		| **Language (in poc)**	| **Link to Official Page** | 
 |---------------------------------------|-----------------------|---------------------------|
 |Cypres   								| JavaScript		 	| [Cypres]					|
 |testcafe   							| JavaScript		 	| [testcafe]				|
@@ -19,24 +20,24 @@ Here is a comprehensive list of **github repo's**. I have created for you to kic
 
 ## **Mobile Automation** 📱
 
-| **Name (click to view repor)**		| **Language (in poc)**	            | **Link to Official Page** | 
+| **Name (click to view repo)**		| **Language (in poc)**	            | **Link to Official Page** | 
 |-----------------------------------|-----------------------------------|---------------------------|
-|Appium [OneClickAutomation-POC]	  | `Selenium, Java, Gherkin & Shell`	| [Appium]					        |
+|Appium- [OneClickAutomation-POC]	  | `Selenium, Java, Gherkin & Shell`	| [Appium]					        |
 
 ---
 
 ## **API Automation** 🗂️
 
-| **Name (click to view repor)**		| **Language (in poc)**	| **Link to Official Page** | 
+| **Name (click to view repo)**		| **Language (in poc)**	| **Link to Official Page** | 
 |-----------------------------------|-----------------------|---------------------------|
-|RESTassured [RESTassured-POC]  		|  `Java with maven`	  | [RESTassured]				      |
+|RESTassured- [RESTassured-POC]  		|  `Java with maven`	  | [RESTassured]				      |
 
 
 ---
 
 ## **Performance Testing** 🏋️
 
-| **Name (click to view repor)**		| **Language (in poc)**	| **Link to Official Page** | 
+| **Name (click to view repo)**		| **Language (in poc)**	| **Link to Official Page** | 
 |---------------------------------------|-----------------------|---------------------------|
 |K6   									| Node based (JS)		| [K6]						|
 |newman   								| Node based (JS/json)	| [newman]					|
@@ -46,7 +47,7 @@ Here is a comprehensive list of **github repo's**. I have created for you to kic
 
 ## **Security Testing** 🛡️
 
-| **Name (click to view repor)**		     | **SetUp instructions**| **Link to Official Page** | 
+| **Name (click to view repo)**		     | **SetUp instructions**| **Link to Official Page** | 
 |----------------------------------------|-----------------------|---------------------------|
 | veracode (Static Analysis)			       | _ToDo_				         | [Veracode]				|
 | Fortify (Static Code Analyzer)		     | _ToDo_				         | [Fortify]					|
@@ -57,7 +58,7 @@ Here is a comprehensive list of **github repo's**. I have created for you to kic
 
 ## **TestOPS/DevOPS Tools** ⚒️
 
-| **Name (click to view repor)**		| **SetUp instructions**	| **Link to Official Page** | 
+| **Name (click to view repo)**		| **SetUp instructions**	| **Link to Official Page** | 
 |---------------------------------------|---------------------------|---------------------------|
 |Jenkins Classic  						| _ToDo_ 		 			| [Jenkins] 				|
 |Jenkins Blue Ocean 					| _ToDo_ 		 			| [Jenkins Blue Ocean] 		|
