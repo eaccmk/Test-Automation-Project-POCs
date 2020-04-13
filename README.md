@@ -4,7 +4,8 @@ Here is a comprehensive list of **github repo's**. I have created for you to kic
  
  _Feel free to use them for starting your journey towards automation, wheather it be, Web, mobile, API, Security, Performance or CI/CD...._
 
-> `git checkout https://github.com/eaccmk/Test-Automation-Project-POCs.git` and start playing with some 😎 Cool & 💁🏻 handy repos. 
+> `git checkout https://github.com/eaccmk/Test-Automation-Project-POCs.git` 
+_and start playing with some 😎 Cool & 🦮 helpful repos._
 
 
 ---
@@ -22,7 +23,7 @@ Here is a comprehensive list of **github repo's**. I have created for you to kic
 
 | **Name (click to view repo)**		| **Language (in poc)**	            | **Link to Official Page** | 
 |-----------------------------------|-----------------------------------|---------------------------|
-|Appium- [OneClickAutomation-POC]	  | `Selenium, Java, Gherkin & Shell`	| [Appium]					        |
+|Appium- [OneClickAutomation-POC]	| `Selenium, Java, Gherkin & Shell`	| [Appium]					|
 
 ---
 
@@ -30,7 +31,7 @@ Here is a comprehensive list of **github repo's**. I have created for you to kic
 
 | **Name (click to view repo)**		| **Language (in poc)**	| **Link to Official Page** | 
 |-----------------------------------|-----------------------|---------------------------|
-|RESTassured- [RESTassured-POC]  		|  `Java with maven`	  | [RESTassured]				      |
+|RESTassured- [RESTassured-POC]  	|  `Java with maven`	| [RESTassured]				|
 
 
 ---
@@ -40,7 +41,7 @@ Here is a comprehensive list of **github repo's**. I have created for you to kic
 | **Name (click to view repo)**		| **Language (in poc)**	| **Link to Official Page** | 
 |---------------------------------------|-----------------------|---------------------------|
 |K6   									| Node based (JS)		| [K6]						|
-|newman   								| Node based (JS/json)	| [newman]					|
+|newman- [API-newman-POC]   			| Node based (JS/json)	| [newman]					|
 |JMeter   								| XML based 		 	| [JMeter]					|
 
 ---
@@ -89,6 +90,7 @@ Here is a comprehensive list of **github repo's**. I have created for you to kic
 [//]: <> ( ALL Other/ relative GitHub repo links are here)
    [OneClickAutomation-POC]: <https://github.com/eaccmk/OneClickAutomation>
    [RESTassured-POC]: <https://github.com/eaccmk/RESTassured-POC>
+   [API-newman-POC]: <https://github.com/eaccmk/API-newman-POC>
 
 
 [//]: <> ( ALL official links are here)
