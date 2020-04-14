@@ -15,8 +15,8 @@ _...and start playing with some 😎 Cool & 🦮 helpful repos._
 
 | **Name (click to view repo)**		| **Language (in poc)**	| **Link to Official Page** | 
 |---------------------------------------|-----------------------|---------------------------|
-|Cypres -    							| JavaScript		 	| [Cypres]					|
-|testcafe -    							| JavaScript		 	| [testcafe]				|
+|Cypress - [cypress-POC]  				| JavaScript		 	| [cypress]					|
+|Testcafe -    							| JavaScript		 	| [testcafe]				|
 
 ---
 
@@ -93,13 +93,14 @@ _...and start playing with some 😎 Cool & 🦮 helpful repos._
    [RESTassured-POC]: <https://github.com/eaccmk/RESTassured-POC>
    [API-newman-POC]: <https://github.com/eaccmk/API-newman-POC>
    [K6-POC]: <https://github.com/eaccmk/K6-POC>
+   [cypress-POC]: <https://github.com/eaccmk/cypress-POC>
 
 
 [//]: <> ( ALL official links are here)
    
 [//]: <> (Web)
-   [Cypres]: <https://www.cypress.io/>
-   [Testcafe]: <https://devexpress.github.io/testcafe/>
+   [cypress]: <https://www.cypress.io/>
+   [testcafe]: <https://devexpress.github.io/testcafe/>
 
 [//]: <> (Mobile)
    [Appium]: <http://appium.io/>
