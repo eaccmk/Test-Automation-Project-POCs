@@ -1,70 +1,71 @@
-# **Test-Automation-Project-POCs**
+# Test-Automation-Project-POCs
 
 Here is a comprehensive list of **github repo's**. I have created for you to kick-start with Test Automation tools.
  
  _Feel free to use them for starting your journey towards automation, wheather it be, Web, mobile, API, Security, Performance or CI/CD...._
 
 > `git checkout https://github.com/eaccmk/Test-Automation-Project-POCs.git` 
-_and start playing with some 😎 Cool & 🦮 helpful repos._
+
+_...and start playing with some 😎 Cool & 🦮 helpful repos._
 
 
 ---
-## **Web Automation** 🌐
+## Web Automation 🌐
 
 
 | **Name (click to view repo)**		| **Language (in poc)**	| **Link to Official Page** | 
 |---------------------------------------|-----------------------|---------------------------|
-|Cypres   								| JavaScript		 	| [Cypres]					|
-|testcafe   							| JavaScript		 	| [testcafe]				|
+|Cypres -    							| JavaScript		 	| [Cypres]					|
+|testcafe -    							| JavaScript		 	| [testcafe]				|
 
 ---
 
-## **Mobile Automation** 📱
+## Mobile Automation 📱
 
 | **Name (click to view repo)**		| **Language (in poc)**	            | **Link to Official Page** | 
 |-----------------------------------|-----------------------------------|---------------------------|
-|Appium- [OneClickAutomation-POC]	| `Selenium, Java, Gherkin & Shell`	| [Appium]					|
+|Appium - [OneClickAutomation-POC]	| `Selenium, Java, Gherkin & Shell`	| [Appium]					|
 
 ---
 
-## **API Automation** 🗂️
+## API Automation 🗂️
 
 | **Name (click to view repo)**		| **Language (in poc)**	| **Link to Official Page** | 
 |-----------------------------------|-----------------------|---------------------------|
-|RESTassured- [RESTassured-POC]  	|  `Java with maven`	| [RESTassured]				|
+|RESTassured - [RESTassured-POC]  	|  `Java with maven`	| [RESTassured]				|
 
 
 ---
 
-## **Performance Testing** 🏋️
+## Performance Testing 🏋️
 
-| **Name (click to view repo)**		| **Language (in poc)**	| **Link to Official Page** | 
+| **Name (click to view repo)**			| **Language (in poc)**	| **Link to Official Page** | 
 |---------------------------------------|-----------------------|---------------------------|
-|K6   									| Node based (JS)		| [K6]						|
-|newman- [API-newman-POC]   			| Node based (JS/json)	| [newman]					|
-|JMeter   								| XML based 		 	| [JMeter]					|
+|K6 - [K6-POC]							| Java Script (K6 in Go)| [K6]						|
+|newman - [API-newman-POC]   			| Node based (JS/json)	| [newman]					|
+|JMeter -  								| XML based 		 	| [JMeter]					|
 
 ---
 
-## **Security Testing** 🛡️
+## Security Testing 🛡️
 
-| **Name (click to view repo)**		     | **SetUp instructions**| **Link to Official Page** | 
-|----------------------------------------|-----------------------|---------------------------|
-| veracode (Static Analysis)			       | _ToDo_				         | [Veracode]				|
-| Fortify (Static Code Analyzer)		     | _ToDo_				         | [Fortify]					|
-| Burp Suite (Static Analysis)			     | _ToDo_				         | [Burp Suite]				|
+| **Name (click to view repo)**		     		| **SetUp instructions**| **Link to Official Page** | 
+|-----------------------------------------------|-----------------------|---------------------------|
+| veracode (Static Analysis) - 			       	| _ToDo_				| [Veracode]				|
+| Fortify (Static Code Analyzer) - 		     	| _ToDo_				| [Fortify]					|
+| Burp Suite (Static Analysis) - 		     	| _ToDo_				| [Burp Suite]				|
 
 
 ---
 
-## **TestOPS/DevOPS Tools** ⚒️
+## TestOPS/DevOPS Tools ⚒️
 
-| **Name (click to view repo)**		| **SetUp instructions**	| **Link to Official Page** | 
+| **Name (click to view repo)**			| **SetUp instructions**	| **Link to Official Page** | 
 |---------------------------------------|---------------------------|---------------------------|
-|Jenkins Classic  						| _ToDo_ 		 			| [Jenkins] 				|
-|Jenkins Blue Ocean 					| _ToDo_ 		 			| [Jenkins Blue Ocean] 		|
-|Jenkins X								| _ToDo_ 		 			| [Jenkins-X] 				|
-|Docker			  						| _ToDo_ 		 			| [Docker] 					|
+|Jenkins Classic -   					| _ToDo_ 		 			| [Jenkins] 				|
+|Jenkins Blue Ocean -  					| _ToDo_ 		 			| [Jenkins Blue Ocean] 		|
+|Jenkins X - 							| _ToDo_ 		 			| [Jenkins-X] 				|
+|Docker - 		  						| _ToDo_ 		 			| [Docker] 					|
 
 ---
 
@@ -91,6 +92,7 @@ _and start playing with some 😎 Cool & 🦮 helpful repos._
    [OneClickAutomation-POC]: <https://github.com/eaccmk/OneClickAutomation>
    [RESTassured-POC]: <https://github.com/eaccmk/RESTassured-POC>
    [API-newman-POC]: <https://github.com/eaccmk/API-newman-POC>
+   [K6-POC]: <https://github.com/eaccmk/K6-POC>
 
 
 [//]: <> ( ALL official links are here)
