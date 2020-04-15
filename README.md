@@ -16,7 +16,7 @@ _...and start playing with some 😎 Cool & 🦮 helpful repos._
 | **Name (click to view repo)**		| **Language (in poc)**	| **Link to Official Page** | 
 |---------------------------------------|-----------------------|---------------------------|
 |Cypress - [cypress-POC]  				| JavaScript		 	| [cypress]					|
-|Testcafe -    							| JavaScript		 	| [testcafe]				|
+|Testcafe - [testcafe-POC] 				| JavaScript		 	| [testcafe]				|
 
 ---
 
@@ -94,6 +94,7 @@ _...and start playing with some 😎 Cool & 🦮 helpful repos._
    [API-newman-POC]: <https://github.com/eaccmk/API-newman-POC>
    [K6-POC]: <https://github.com/eaccmk/K6-POC>
    [cypress-POC]: <https://github.com/eaccmk/cypress-POC>
+   [testcafe-POC]: <https://github.com/eaccmk/testcafe-POC>
 
 
 [//]: <> ( ALL official links are here)
