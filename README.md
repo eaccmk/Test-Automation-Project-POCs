@@ -15,8 +15,8 @@ _...and start playing with some 😎 Cool & 🦮 helpful repos._
 
 | **Name (click to view repo)**		| **Language (in poc)**	| **Link to Official Page** | 
 |---------------------------------------|-----------------------|---------------------------|
-|Cypress - [cypress-POC]  				| JavaScript		 	| [cypress]					|
-|Testcafe - [testcafe-POC] 				| JavaScript		 	| [testcafe]				|
+|Cypress - [cypress-POC]  				| `JavaScript`		 	| [cypress]					|
+|Testcafe - [testcafe-POC] 				| `JavaScript`		 	| [testcafe]				|
 
 ---
 
@@ -39,11 +39,11 @@ _...and start playing with some 😎 Cool & 🦮 helpful repos._
 
 ## Performance Testing 🏋️
 
-| **Name (click to view repo)**			| **Language (in poc)**	| **Link to Official Page** | 
-|---------------------------------------|-----------------------|---------------------------|
-|K6 - [K6-POC]							| Java Script (K6 in Go)| [K6]						|
-|newman - [API-newman-POC]   			| Node based (JS/json)	| [newman]					|
-|JMeter -  								| XML based 		 	| [JMeter]					|
+| **Name (click to view repo)**			| **Language (in poc)**		| **Link to Official Page** | 
+|---------------------------------------|---------------------------|---------------------------|
+|K6 - [K6-POC]							| `Java Script (K6 in Go)`	| [K6]						|
+|newman - [API-newman-POC]   			| `Node based (JS/json)`	| [newman]					|
+|JMeter -  								| `XML based`	 		 	| [JMeter]					|
 
 ---
 
