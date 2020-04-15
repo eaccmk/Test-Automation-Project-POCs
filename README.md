@@ -15,8 +15,8 @@ _...and start playing with some 😎 Cool & 🦮 helpful repos._
 
 | **Name (click to view repo)**		| **Language (in poc)**	| **Link to Official Page** | 
 |---------------------------------------|-----------------------|---------------------------|
-|Cypress - [cypress-POC]  				| JavaScript		 	| [cypress]					|
-|Testcafe -    							| JavaScript		 	| [testcafe]				|
+|Cypress - [cypress-POC]  				| `JavaScript`		 	| [cypress]					|
+|Testcafe - [testcafe-POC] 				| `JavaScript`		 	| [testcafe]				|
 
 ---
 
@@ -39,11 +39,11 @@ _...and start playing with some 😎 Cool & 🦮 helpful repos._
 
 ## Performance Testing 🏋️
 
-| **Name (click to view repo)**			| **Language (in poc)**	| **Link to Official Page** | 
-|---------------------------------------|-----------------------|---------------------------|
-|K6 - [K6-POC]							| Java Script (K6 in Go)| [K6]						|
-|newman - [API-newman-POC]   			| Node based (JS/json)	| [newman]					|
-|JMeter -  								| XML based 		 	| [JMeter]					|
+| **Name (click to view repo)**			| **Language (in poc)**		| **Link to Official Page** | 
+|---------------------------------------|---------------------------|---------------------------|
+|K6 - [K6-POC]							| `Java Script (K6 in Go)`	| [K6]						|
+|newman - [API-newman-POC]   			| `Node based (JS/json)`	| [newman]					|
+|JMeter -  								| `XML based`	 		 	| [JMeter]					|
 
 ---
 
@@ -94,6 +94,7 @@ _...and start playing with some 😎 Cool & 🦮 helpful repos._
    [API-newman-POC]: <https://github.com/eaccmk/API-newman-POC>
    [K6-POC]: <https://github.com/eaccmk/K6-POC>
    [cypress-POC]: <https://github.com/eaccmk/cypress-POC>
+   [testcafe-POC]: <https://github.com/eaccmk/testcafe-POC>
 
 
 [//]: <> ( ALL official links are here)
