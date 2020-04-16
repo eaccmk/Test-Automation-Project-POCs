@@ -137,3 +137,4 @@ _...and start playing with some 😎 Cool & 🦮 helpful repos._
 
 [//]: <> ( remove \ from below)
 [//]: <> (- ![#f03c15]\(https://placehold.it/15/f03c15/000000?text=+\) `#f03c15`)
+[//]: <> (-RSpec, Watir, Cypress.io or Nightwatch.js., Selenium, Watir, Sahi, Cucumber, and Phantomjs)
